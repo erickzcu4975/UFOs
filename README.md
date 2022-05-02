@@ -6,7 +6,7 @@ Objective is showing a table with UFO data stored as a JavaScript array. Being a
 
 ## Results:
 
-file:///C:/Users/erick.lopez/OneDrive%20-%20Seaboard%20Marine%20Ltd/Desktop/Analysis%20Projects/11th%20Project/Erickzcu4975/index.html
+https://github.com/erickzcu4975/UFOs/blob/main/index.html
 
 ### Welcome to UFO Sightings! 
 
